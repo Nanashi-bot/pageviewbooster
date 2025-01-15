@@ -11,7 +11,7 @@ A simple Python script to refresh a page multiple times to boost the view counte
 - `time` library
 - `selenium` library: `pip install selenium`
 -  Firefox browser
-- `geckodriver` (download from [here] (https://github.com/mozilla/geckodriver/releases)) and add it to your system's PATH.
+- `geckodriver` (download from [here](https://github.com/mozilla/geckodriver/releases)) and add it to your system's PATH.
 
 ## Usage
 
