@@ -7,8 +7,11 @@ A simple Python script to refresh a page multiple times to boost the view counte
 - Written in Python using the `requests` library.
 
 ## Requirements
-- Python 3.x
-- `requests` library: `pip install requests`
+- Python 3.xA
+- `time` library
+- `selenium` library: `pip install selenium`
+-  Firefox browser
+- `geckodriver` (download from [here] (https://github.com/mozilla/geckodriver/releases)) and add it to your system's PATH.
 
 ## Usage
 
