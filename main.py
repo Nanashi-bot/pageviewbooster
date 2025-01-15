@@ -4,9 +4,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+url = "https://github.com/Nanashi-bot"
 
 driver = webdriver.Firefox()
-driver.get("https://github.com/Nanashi-bot")
+driver.get(url)
 
 try:
     while True:
